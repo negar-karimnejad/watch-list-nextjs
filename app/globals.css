@@ -17,7 +17,7 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
+  color: #FFF;
   background-color: rgb(26, 31, 43);
 }
 
